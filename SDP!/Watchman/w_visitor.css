@@ -1,0 +1,42 @@
+.photo_area {
+  
+    background-color: white;
+    width: 400px;
+    height: 530px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+  
+}
+
+
+
+.camera {
+    background-color:#FCD7C1;
+    margin-left: 45px;
+    margin-top: 20px;
+    width: 300px;
+    height: 200px;
+    column-gap: 50px;
+    border-radius: 10px;
+
+
+}
+.capture{
+    width: 300px;
+    height: 200px;
+    margin-top: 50px;
+    margin-left: 45px;
+    background-color: #FCD7C1;
+    border-radius: 10px;
+}
+
+.button{
+
+    margin-top: 20%;
+    margin-left: 70px;
+    border-radius: 15px;
+    background-color:#F49A59;
+}
+
+
